@@ -13,3 +13,5 @@ String.prototype.checkPermutation = function(string) {
 	}
 	return true;
 }
+
+//no changes made after running in console
